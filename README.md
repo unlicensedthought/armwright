@@ -24,6 +24,8 @@ call cost when it does.
 
 Zero runtime dependencies. Runs on Node 22.18+ and on Cloudflare Workers.
 
+Write-ups: [Cost in the reward, once](https://unlicensedthought.com/writing/cost-in-the-reward-once/) · [3,380 consecutive provider failures were a policy failure, not a transient one](https://unlicensedthought.com/writing/3380-provider-failures-in-a-row-were-a-policy-failure/)
+
 ## The numbers
 
 `npm run demo` replays one seeded stream of 20,000 calls against four synthetic
